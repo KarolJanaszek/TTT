@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb78b28-bca5-4f4a-83bf-793abafe7e57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/MavenWrapperDownloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/TttApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/controller/GameController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/Board$Column.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/Board$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/Board$Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/enums/GameStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/pl/karol/ttt/model/enums/PlayerStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/jsp/game.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/jsp/multiplayer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/jsp/new-player.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/jsp/singleplayer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/WEB-INF/jsp/start.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/multiplayer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/css/start.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/NO_DATA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/O.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/X.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/webapp/img/ttt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/pl/karol/ttt/model/BoardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/pl/karol/ttt/model/GameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/karol/ttt/controller/SingleplayerGameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/karol/ttt/controller/SingleplayerGameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/karol/ttt/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/karol/ttt/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/karol/ttt/model/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/karol/ttt/model/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hNIYXsd7YreQGt4GwmRyyJ23lC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ttt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ttt" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb78b28-bca5-4f4a-83bf-793abafe7e57" name="Default Changelist" comment="" />
+      <created>1599845171002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599845171002</updated>
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1599848341562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599848341562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1599848340427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1599848340427" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599848247718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1599848247718" />
+  </component>
+</project>
